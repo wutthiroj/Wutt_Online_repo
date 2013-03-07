@@ -25,6 +25,9 @@
                                     ".integer(" + val + ")}";
                                 });
                             });
+                            picker.addEventListener("change", function (e) {
+                                current.innerText = picker.winControl.current.toLocaleTimeString();
+                            });
                         });
                 }
             })
