@@ -1,0 +1,39 @@
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bin\Debug\resources.pri
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bin\Debug\AppxManifest.xml
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bin\Debug\UIControls.build.appxrecipe
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\priconfig.xml.intermediate
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\layout.resfiles.intermediate
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\resources.resfiles.intermediate
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\pri.resfiles.intermediate
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\priconfig.xml
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\layout.resfiles
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\resources.resfiles
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\pri.resfiles
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\LanguageQualifiers.txt
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11\UIControls\UIControls\bld\Debug\ProjectArchitectures.txt
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bin\Debug\resources.pri
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bin\Debug\AppxManifest.xml
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bin\Debug\UIControls.build.appxrecipe
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\priconfig.xml.intermediate
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\layout.resfiles.intermediate
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\resources.resfiles.intermediate
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\pri.resfiles.intermediate
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\priconfig.xml
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\layout.resfiles
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\resources.resfiles
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\pri.resfiles
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\LanguageQualifiers.txt
+C:\Users\adam\Documents\Books\Pro Win8 Dev\Source Code\Chapter 11-XXX\UIControls\UIControls\bld\Debug\ProjectArchitectures.txt
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bin\Debug\resources.pri
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bin\Debug\AppxManifest.xml
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bin\Debug\UIControls.build.appxrecipe
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\priconfig.xml.intermediate
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\layout.resfiles.intermediate
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\resources.resfiles.intermediate
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\pri.resfiles.intermediate
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\priconfig.xml
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\layout.resfiles
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\resources.resfiles
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\pri.resfiles
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\LanguageQualifiers.txt
+D:\visual studio\pro_win8_app_js\Chapter 11\UIControls\UIControls\bld\Debug\ProjectArchitectures.txt
