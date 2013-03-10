@@ -65,6 +65,7 @@
     <Content Include="js\templates.js" />
     <Content Include="js\viewmodel.js" />
     <Content Include="pages\AppTest.html" />
+    <Content Include="pages\DatePicker.html" />
     <Content Include="pages\Rating.html" />
     <Content Include="pages\TimePicker.html" />
     <Content Include="pages\ToggleSwitch.html" />
